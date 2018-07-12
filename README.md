@@ -97,6 +97,10 @@ sin alterar su desempeño.
 ![FORMATO FUNCIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/ff2.png)
 ![FORMATO FUNCIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/ff3.png)
 
+![FORMATO FUNCIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/BPM1.png)
+![FORMATO FUNCIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/BPM2.png)
+![FORMATO FUNCIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/BPM3.png)
+
 ***FLUJOGRAMA***
 ![FLUJOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/flujo.png)
 
