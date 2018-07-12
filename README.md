@@ -109,7 +109,7 @@ sin alterar su desempeño.
 
 ![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono4.jpeg)
 
-![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono5.jpeg)
+
 
 
 ***COSTOS***
