@@ -80,7 +80,7 @@ Los elementos de pruebas considerados, son aquellos componentes construidos en e
     </tr>
     <tr>
       <td>Rechazado</td>
-      <td>En caso de ocurrir que elm proyecyo no cumpla con el nicel exigido, el proyecto se rechaza completo en su etapa de despliegue.</td>
+      <td>En caso de ocurrir que el proyecyo no se cumpla con el indice exigido, el proyecto se rechaza completo en su etapa de despliegue.</td>
     </tr>
       </tbody>
 </table>
