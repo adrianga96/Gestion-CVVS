@@ -103,7 +103,7 @@ Los elementos de pruebas considerados, son aquellos componentes construidos en e
   <tbody>
     <tr>
       <td>Componentes a ser aprovados</td>
-      <td>}Modulo de registro,Modulo de registro de denuncia,Modulo de eliminacion modificacion, Modulo de seguimiento.
+      <td>Modulo de registro,Modulo de registro de denuncia,Modulo de eliminacion modificacion, Modulo de seguimiento.
 </td>
     </tr>
     <tr>
