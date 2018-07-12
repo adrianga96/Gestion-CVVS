@@ -98,8 +98,7 @@ Los elementos de pruebas considerados, son aquellos componentes construidos en e
     <tr>
       <th scope="col">Tarea</th>
       <th scope="col">Descripcion</th>
-
-    </tr>
+</tr>
   </thead>
   <tbody>
     <tr>
@@ -115,20 +114,19 @@ verificar la conectividad ,Efecturar de manera correcta cada uno de los procesos
 </td>
     </tr>
 
-    <tr>
+   <tr>
       <td>Datalle del orden de ejecuccion de los componentes</td>
       <td> los modulos anteriores se deben ejecutar en forma independiente pero consecutivos en el orden siguiente:
 Registar usuario,Registrar denuncia,modificacion eliminacion y busqueda de esta denuncia,Pago de esta denuncia.
 </td>
     </tr>
 
-    <tr>
+   <tr>
       <td>Responsabilidad de la prueba</td>
       <td>Las pruebas son responsabilidad de Daniel camargo lider de pruebas del proyecto. 
 </td>
     </tr>
-
-      </tbody>
+</tbody>
 </table>
 
 
