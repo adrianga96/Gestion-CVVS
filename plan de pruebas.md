@@ -126,7 +126,7 @@ Los elementos de pruebas considerados, son aquellos componentes construidos en e
 -	**Registar usuario :** 
 -	**Registrar denuncia:** .
 -	**modificacion eliminacion y busqueda de esta denuncia:** . 
--	** Pago de esta denuncia.
+-	** Pago de esta denuncia:**.
 </td>
     </tr>
 
