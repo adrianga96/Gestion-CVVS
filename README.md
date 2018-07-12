@@ -101,13 +101,13 @@ sin alterar su desempeño.
 ![FLUJOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/flujo.png)
 
 ***CRONOGRAMA***
-![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono1.jpeg)
+![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono1.jpg)
 
-![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono%202.jpeg)
+![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono2.jpg)
 
-![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono3.jpeg)
+![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono3.jpg)
 
-![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono4.jpeg)
+![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono4.jpg)
 
 
 
